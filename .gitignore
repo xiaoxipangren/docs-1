@@ -2,4 +2,8 @@
 _book
 sftp-config.json
 .DS_Store
-EnableVoice/rokid-vsvy-sdk-docs/
+5-VsysDoc/rokid-vsvy-sdk-docs/
+*.iml
+.idea
+node_modules
+_book

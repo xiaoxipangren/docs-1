@@ -73,6 +73,41 @@
         * [Rokid Mobile SDK Android 接入指南](https://github.com/Rokid/RokidMobileSDKAndroidDemo)
         * [Rokid Mobile SDK iOS 接入指南](https://github.com/Rokid/RokidMobileSDKiOSDemo)
     * [前端降噪API文档](3-ApiReference/siren-api.md)
+    
+* 智能设备语音接入平台
+    * [平台简介](5-VsysDoc/introduction.md)
+    * 新手入门
+        * [创建设备流程](5-VsysDoc/rookie-guide/create-device.md)
+        * [认证文件使用方法](5-VsysDoc/rookie-guide/usage.md) 
+    * [重要概念](5-VsysDoc/important-concept.md)
+    * Android 全链路系统集成
+        * [概述](5-VsysDoc/fullLink/introduce.md)
+        * [SDK 目录结构](5-VsysDoc/fullLink/sdk-dir.md)
+        * [快速集成](5-VsysDoc/fullLink/init-quick.md)
+        * [API 参考](5-VsysDoc/fullLink/api-voicerecognize.md)
+    * Android 语音识别合成系统集成
+         * [概述](5-VsysDoc/speechTTS/introduce.md)
+         * [SDK 目录结构](5-VsysDoc/speechTTS/sdk-dir.md)
+         * [获取秘钥](5-VsysDoc/common/key-secret.md) 
+         * [快速集成](5-VsysDoc/speechTTS/init.md)
+            * [集成前准备](5-VsysDoc/speechTTS/init-prepare.md)
+            * [语音识别服务快速集成](5-VsysDoc/speechTTS/init-speech.md)
+            * [语音合成服务快速集成](5-VsysDoc/speechTTS/init-tts.md)
+         * [API参考](5-VsysDoc/speechTTS/api.md)
+            * [语音识别服务](5-VsysDoc/speechTTS/api-speech.md)
+            * [语音合成服务](5-VsysDoc/speechTTS/api-tts.md)
+         * [示例源码](https://github.com/Rokid/RokidSpeechTTSDemo) 
+    * Linux基础架构
+         * [概述](5-VsysDoc/speechTTS/introduce.md)
+         * [目录结构](5-VsysDoc/linuxsdk/sdk-linux-dir.md)
+         * 快速集成
+            * [集成前准备](5-VsysDoc/linuxsdk/init-linux-prepare.md)
+            * [开始集成](5-VsysDoc/linuxsdk/begin-integrate.md)
+         * API 接口
+            * [语音合成服务](5-VsysDoc/linuxsdk/linux-tts-api.md)
+            * [语音识别服务](5-VsysDoc/linuxsdk/linux-speech-api.md)
+    * [错误码](5-VsysDoc/common/err-code.md)
+    * [Json格式配置字串](5-VsysDoc/common/api-json.md)     
 
 * Rokid 智能开发套件
     * [智能开发套件简介](rokidos-linux-docs/README.md)
